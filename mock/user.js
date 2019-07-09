@@ -33,8 +33,6 @@ export default [
     type: "post",
     response: config => {
       const { username } = config.body;
-      alert("登陆mock");
-      alert(username);
       // const token = tokens[username];xiaofang
       const token = tokens[username];
 
