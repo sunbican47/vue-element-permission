@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="189px"  margin-bottom="2" border="solid 2px #66B1FF" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title >广州医博</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-121.000000, -218.000000)" fill="#ffffff">
+            <g id="广州医博" transform="translate(121.000000, 224.000000)">
+                <path margin-bottom="2" d="M33.3274188,1.77635684e-15 L27.8453185,6.5333128 L20.8490981,0.451591197 C20.4322835,0.0892598001 19.8006609,0.133427156 19.4383295,0.550241748 L12.1396728,8.94638583 C11.7773414,9.36320042 11.8215087,9.99482304 12.2383233,10.3571544 L19.407446,16.5891777 L3.41947508,35.6428994 C3.32872345,35.751053 3.26477759,35.8727786 3.22693093,36 L2,36 C0.8954305,36 1.3527075e-16,35.1045695 0,34 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L33.3274188,0 Z M20.2533028,36 L36,17.233817 L36,34 C36,35.1045695 35.1045695,36 34,36 L20.2533028,36 Z M4.5,3.75 L4.5,7.5 L6.75,7.5 L6.75,3.75 L4.5,3.75 Z M4.5,12.75 L4.5,26.25 L6.75,26.25 L6.75,12.75 L4.5,12.75 Z" id="login_logo复制"></path>
+                <text font-family="TRENDS, ShiShangZhongHeiJianTi" font-size="26" font-weight="normal">
+                    <tspan x="50" y="28" >广州医博</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
