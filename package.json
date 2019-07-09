@@ -14,11 +14,6 @@
     "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml",
     "new": "plop"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "keywords": [
     "vue",
     "admin",
@@ -76,7 +71,6 @@
     "chokidar": "2.1.5",
     "connect": "3.6.6",
     "html-webpack-plugin": "3.2.0",
-    "husky": "1.3.1",
     "lint-staged": "8.1.5",
     "mockjs": "1.0.1-beta3",
     "node-sass": "^4.9.0",
